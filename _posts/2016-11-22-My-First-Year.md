@@ -14,7 +14,7 @@ A few weeks passed and I got the call for the interview. I was a bit stressed be
 
 The interview started with a few personal questions and then a few programming questions followed by a small written test with HTML, JavaScript and PHP questions. I felt that I did good in the test and the overall interview went much better than I expected.
 
-## H2 The Journey Begins
+## The Journey Begins
 
 After a few weeks I got the long awaited phone call and I accepted the job offer with a lot of enthusiasm. I started my first day and it was overwhelming meeting all the people and the team that I would be working on, all these talented programmers and academics and already I had a bad case of impostor syndrome.
 
@@ -24,7 +24,7 @@ Am I really good enough to be part of this team? Will I still have a job after t
 
 I started my project and with each passing day learned more and more and more and new technologies kept on being added to my arsenal. This was all a year ago and today I can proudly say I no longer have that dreaded impostor syndrome. I have learned so much over the past year it is simply mind-boggling. I keep on learning new stuff every day thanks to the talented people I work with and the diverse systems I work on from stuff like systems for the liquid fertilizer department to HR-systems for job descriptions and performance reviews to cash receipts. Everyday is a new challenge and that is what I love about this job.
 
-## H2 Reaching for the Stars 
+## Reaching for the Stars 
                     
 My studies are progressing at a good pace thanks to my work and my experience with the technologies I use at work helps me tremendously. When I first started I only knew a bit of HTML and JavaScript now I use PHP, HTML, JavaScript, JQuery, mySQL and JSON daily. I have also learned to think in a practical, logical way about each problem and my interpersonal skills improved a lot. I am now a lot easier to get along with than I was a few years back thanks to great colleagues and managers.
 
