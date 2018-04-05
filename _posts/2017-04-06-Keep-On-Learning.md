@@ -2,7 +2,7 @@
 layout: post
 title: The need to keep on learning
 ---
-**_Taking it one day at a time._**
+_Taking it one day at a time._
 
 ## Progress being made
 

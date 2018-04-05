@@ -2,7 +2,7 @@
 layout: post
 title: My first year as a developer…
 ---
-**_This job not only helped me mentally but also emotionally and physically._**
+_This job not only helped me mentally but also emotionally and physically._
 
 I reached a major personal milestone in my career this month, my one year work anniversary as a PHP developer.
 

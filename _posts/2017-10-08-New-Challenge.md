@@ -2,7 +2,7 @@
 layout: post
 title: Expanding my knowledge with a new challenge
 ---
-**_Natural fundamentals_**
+_Natural fundamentals_
 
 ## New challenge: Software AG Natural/ADABAS
 

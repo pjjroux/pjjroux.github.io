@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Knowledge is the spice of life
 
-Some information about you!
+My name is _Jaco Roux_ and I work as a PHP developer in South Africa. I love the challenge of coding and creating new ideas daily. I am currently studying towards my National Diploma in IT.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+I am an avid gamer and PC enthusiast and recently started dabbling in Linux. I am on a quest to learn as much as I can throughout my life and to use what I have learned to better myself and those around me.
