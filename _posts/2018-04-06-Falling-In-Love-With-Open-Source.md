@@ -40,9 +40,13 @@ I hope to become a Fedora ambassador in future and will continue to look for opp
 
 ###### Resources:
 [Fedora](https://getfedora.org/)
+
 [DistroWatch](https://distrowatch.com/)
+
 [Opensource](https://opensource.com/)
+
 [Openelectronics](https://www.open-electronics.org/)
+
 [Arduino](https://www.arduino.cc/)
 
 
