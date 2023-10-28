@@ -1,7 +1,8 @@
 ---
 layout: post
-title: From Novice to Lead Developer: My Coding Journey
+title: "From Novice to Lead Developer: My Coding Journey"
 ---
+
 
 ![Main]({{ "/images/journey.png" | absolute_url }})
 
