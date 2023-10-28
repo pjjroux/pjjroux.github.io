@@ -3,6 +3,7 @@ layout: post
 title: From Novice to Lead Developer: My Coding Journey
 ---
 
+![Main]({{ "/images/journey.png" | absolute_url }})
 
 Seven years ago, I jumped into the coding world, eyes wide with anticipation and a tangible sense of nervousness. It was all new, a little scary but exciting. I even scribbled down my adventure in a [blog post](https://pjjroux.github.io/My-First-Year/), sharing the highs and lows of my first coding year.
 
