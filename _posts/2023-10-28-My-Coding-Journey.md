@@ -24,6 +24,6 @@ As I step further into this journey, with a solid team beside me, the adventure 
 
 ## Embracing Architecture and DevOps: The Next Chapter
 
-The transition into architecture and DevOps work has sparked a new level of excitement in me. It’s like opening a new book, filled with complex, intriguing plots waiting to be unraveled. The realms of architecture and DevOps promise a blend of creativity, efficiency, and a dash of the unknown, ... propelling me further into the Information and Communication Technology (ICT) field.
+The transition into architecture and DevOps work has sparked a new level of excitement in me. It’s like opening a new book, filled with complex, intriguing plots waiting to be unraveled. The realms of architecture and DevOps promise a blend of creativity, efficiency, and a dash of the unknown, propelling me further into the Information and Communication Technology (ICT) field.
 
 This new chapter is not just about embracing new roles or tasks, it’s about taking a significant stride in my career and life. The blend of architecture’s big-picture thinking and DevOps’ streamlined processes is like a new playground waiting to be explored. I am thrilled to dive into this, embracing the challenges, and celebrating the victories that lie ahead. This is more than just a career shift; it’s a journey of growth, learning, and continuous evolution, and I am all here for it.
