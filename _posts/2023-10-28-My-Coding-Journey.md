@@ -4,7 +4,9 @@ title: "From Novice to Lead Developer: My Coding Journey"
 ---
 
 
-![Main]({{ "/images/journey.png" | absolute_url }})
+{% if page.url == "/My-Coding-Journey/" %}
+<img src="{{ "/images/journey.png" | absolute_url }}" alt="Main" style="width:80%;">
+{% endif %}
 
 Seven years ago, I jumped into the coding world, eyes wide with anticipation and a tangible sense of nervousness. It was all new, a little scary but exciting. I even scribbled down my adventure in a [blog post](https://pjjroux.github.io/My-First-Year/), sharing the highs and lows of my first coding year.
 
