@@ -2,7 +2,7 @@
 layout: post
 title: "From Novice to Lead Developer: My Coding Journey"
 ---
-_My desk, once a solo coding station, now is a place where mentoring, planning, and reviewing code happens_
+_My desk, once a solo coding station, has evolved into a hub of mentoring, architectural strategizing, and planning_
 
 <img src="{{ "/images/journey.png" | absolute_url }}" alt="Main" style="width:80%;">
 
@@ -14,7 +14,7 @@ The ride from writing simple scripts to leading a team of developers has been wi
 
 > "Every project, every bug, and every fix has pushed me deeper into this tech universe."
 
-My desk, once a solo coding station, now is a place where mentoring, planning, and reviewing code happens. I’ve got a team to look after, code quality to maintain, and projects to steer towards the finish line, all while still diving into code to solve tough problems.
+My desk, once a solo coding station, has evolved into a hub of mentoring, architectural strategizing, and planning. I’ve got a team to look after, code quality to maintain, and projects to steer towards the finish line, all while still diving into code to solve tough problems.
 
 The doubts that used to bug me have turned into a layer of expertise, but the hunger to learn and grow hasn’t budged. Every day brings new hurdles, new solutions, and fresh learnings, keeping the coder in me alive and kicking.
 
