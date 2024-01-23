@@ -2,7 +2,7 @@
 layout: post
 title: "Soft Skills, Hard Impact: Elevating Your Tech Career Beyond Codingy"
 ---
-_Developing soft skills enhances your self-awareness, allowing you to perceive your technical skills in a new light.
+_Developing soft skills enhances your self-awareness, allowing you to perceive your technical skills in a new light._
 
 <img src="{{ "/images/softskills.png" | absolute_url }}" alt="Main" style="width:80%; margin: 20px auto; display: block;">
 
