@@ -1,8 +1,12 @@
-# Soft Skills, Hard Impact: Elevating Your Tech Career Beyond Coding
+---
+layout: post
+title: "Soft Skills, Hard Impact: Elevating Your Tech Career Beyond Codingy"
+---
+_Developing soft skills enhances your self-awareness, allowing you to perceive your technical skills in a new light.
+
+<img src="{{ "/images/softskills.png" | absolute_url }}" alt="Main" style="width:80%; margin: 20px auto; display: block;">
 
 In the fast-paced world of software development, we often get caught up in the whirlwind of coding, algorithms, and architectural designs. While hard skills are essential in defining our technical expertise, my career journey has taught me an invaluable lesson about the impact of soft skills in elevating one's career. Moving beyond the realm of code and architecture, soft skills empower you to transform into a "10x developer".
-
-> Developing soft skills enhances your self-awareness, allowing you to perceive your technical skills in a new light.
 
 The importance of soft skills lies in their ability to extend your expertise beyond mere technical ability. They enable you to delve into the intricacies of business, nurture relationships, and build trust within your team. This is more than just about being a team player or an effective communicator, it's about understanding the broader context in which your technical skills are applied.
 
