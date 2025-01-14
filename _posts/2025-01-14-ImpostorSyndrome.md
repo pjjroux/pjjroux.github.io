@@ -2,7 +2,7 @@
 layout: post  
 title: "Silencing the Inner Critic: Achieving Confidence and Protecting Innovation"
 ---
-_When impostor syndrome takes hold, it stifles creativity._
+_When impostor syndrome takes hold, it stifles creativity_
 
 <!--more--> 
 
