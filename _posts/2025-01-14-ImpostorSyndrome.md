@@ -4,8 +4,6 @@ title: "Silencing the Inner Critic: Achieving Confidence and Protecting Innovati
 ---
 _When impostor syndrome takes hold, it stifles creativity_
 
-<!--more--> 
-
 <img src="{{ "/images/impostor.png" | absolute_url }}" alt="Main" style="width:80%; height: 400px; margin: 20px auto; display: block;">
 
 Impostor syndrome. It's a term we toss around, but for many in technical fields, it's a quiet, persistent voice questioning our right to belong. Even with growing experience, there's that nagging doubt: "Am I good enough?". But here's the twist, not everyone battles this doubt. Some are entangled in an equally problematic narrative, the confidence myth, overestimating their capabilities, which can lead to overpromising and underdelivering. They might also step into areas where they lack expertise, potentially affecting project quality by overshadowing those with deeper knowledge in the field.
