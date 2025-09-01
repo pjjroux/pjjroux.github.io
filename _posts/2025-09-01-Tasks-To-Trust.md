@@ -4,7 +4,7 @@ title: "From Tasks to Trust: My Ongoing Lesson as a Leader"
 excerpt: "This year I’m on a course that’s been pushing me to think differently about leadership."
 ---
 
-<img src="{{ "/images/leadership.jpg" | absolute_url }}" alt="Main" style="width:80%; height: 400px; margin: 20px auto; display: block;">
+<img src="{{ "/images/leadership.jpg" | absolute_url }}" alt="Leadership Growth">
 
 One thing has been very clear, I’ve been too focused on tasks and deliverables, and not enough on people. I realized that I don’t always make the time to really listen to my team. I jump straight into what needs to be done, what’s next on the board, what deadlines are coming up.  
 
@@ -28,6 +28,7 @@ I don’t have it all figured out, but I know this: tasks will always be there. 
 To my team reading this, thank you for your patience as I learn and grow. I’m committed to building a better environment for us, and I know we can keep holding each other accountable to it. 
 
 Looking forward, I’m excited about this journey, and I know there’s still so much to learn. My hope is that these lessons don’t just shape me, but also strengthen the team and culture around me.  
+
 
 
 
