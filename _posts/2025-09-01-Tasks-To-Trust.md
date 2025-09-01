@@ -30,3 +30,4 @@ To my team reading this, thank you for your patience as I learn and grow. I’m 
 Looking forward, I’m excited about this journey, and I know there’s still so much to learn. My hope is that these lessons don’t just shape me, but also strengthen the team and culture around me.  
 
 
+
