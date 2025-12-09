@@ -5,7 +5,7 @@ excerpt: "How six months in Culture Crafters reshaped my mindset, my habits, and
 ---
 
 
-<img src="{{ "/images/leadership-journey.jpg" | absolute_url }}" alt="Leadership Transformation" style="width:80%; height: 400px; margin: 20px auto; display: block;">
+<img src="{{ "/images/leadership-journey.jpg" | absolute_url }}" alt="Leadership Transformation" style="width:80%; height: 80%; margin: 20px auto; display: block;">
 
 
 I didn’t want to go.
