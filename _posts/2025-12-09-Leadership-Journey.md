@@ -90,7 +90,7 @@ And it feels real.
 ## The People Who Walked With Me
 
 
-My Culture Crafters partner walked every step of the journey with me. They listened to every idea I had (some good, some questionable), kept me grounded, helped me stay focused, and reminded me of my strengths when I was being far too hard on myself. They were a mirror in the best possible way.
+My Culture Crafters partner walked every step of the journey with me. They listened to every idea I had, kept me grounded, helped me stay focused, and reminded me of my strengths when I was being far too hard on myself. They were a mirror in the best possible way.
 
 
 Then there was my coach, the person who helped me discover something I didn’t know I was missing: my personal mission.
