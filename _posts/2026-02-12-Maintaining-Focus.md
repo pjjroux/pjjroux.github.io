@@ -92,12 +92,10 @@ Focus is a productivity tactic and more so a quality of life decision.
 
 There is something deeply human about giving your full attention to one thing and doing it well. In a world that constantly pulls at you, that experience is becoming rare.
 
-
-## Challenge
-
-
 > **AI increases leverage, but only focused humans create meaningful intentional impact.**
 
+
+## Challenge
 
 So here is my challenge, to myself and to you.
 
@@ -110,10 +108,7 @@ Try one small experiment.
 
 Do it consistently for five days.
 
-Notice what changes.
-The clarity.
-The stress levels.
-The quality of your thinking.
+Notice the changes in clarity, stress levels and the quality of your thinking.
 
 I would love to hear what you choose and what you learn.
 
