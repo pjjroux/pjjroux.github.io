@@ -3,8 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
-### Architecting Business Solutions through Innovative Software Development
+Engineering leader with 10+ years of experience designing and delivering enterprise software platforms while building high-performing development teams that create measurable business impact.
 
-As a Lead Developer, I thrive on architecting innovative software solutions that bridge technology with real-world business needs. With extensive experience in building enterprise-level applications using .NET and Angular, I specialize in seamlessly integrating legacy systems with modern projects, driving efficiency and growth.
+Currently leading a team of 15 developers responsible for modernizing and scaling business-critical platforms across ecommerce, agricultural trading, and enterprise integration environments at Senwes.
 
-My academic journey at UNISA laid the foundation for my expertise, fostering a passion for continuous learning and growth in the dynamic realm of software development. Beyond the code, I possess a deep understanding of the agriculture industry, allowing me to tailor solutions that align not only with technical standards but also with industry-specific challenges. I'm driven by the belief that every line of code has the potential to make a meaningful impact, whether by streamlining operations, enhancing user experiences, or solving crucial pain points.
+I specialize in legacy modernization, platform architecture, and aligning technology execution with business strategy, transforming complex systems into scalable, maintainable solutions that enable growth.
+
+## Key areas of impact
+
+- Enterprise platform modernization and cloud adoption
+- Distributed and event-driven system architecture
+- Engineering team leadership and developer growth
+- Cross-functional delivery aligned to business outcomes
+- Automation and operational efficiency improvements
+
+Recently led the full modernization of the Basislink platform, migrating legacy architecture into a cloud-ready, event-driven system incorporating AI-assisted trading analysis and real-time recommendations.
+
+My leadership philosophy is simple: strong engineering culture, clear ownership, and empowered teams deliver exceptional software.
+
+Open to opportunities where technology leadership drives real organizational impact.
