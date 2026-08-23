@@ -19,12 +19,15 @@ The question isn't whether AI makes mistakes. It's whether your organisation kno
 ## Three Things Worth Deciding Now
 
 **Own the output, not just the process**
+
 If AI shaped the decision, the decision is still yours. Build that into how your team talks about AI-assisted work.
 
 **Transparency is a habit, not a document**
+
 A governance policy filed somewhere doesn't build trust. Being consistently clear with stakeholders about when and how AI was involved does. In our context, where trust between people and institutions is earned slowly, that visibility matters more than most frameworks acknowledge.
 
-**The real test isn't the policy. It's the Monday morning conversation.**
+**Accountability lives in the small moments**
+
 Every time your team lets "the system recommended it" be the end of the conversation, accountability erodes a little. Every time someone asks why, traces the logic, and owns the outcome regardless, trust builds. 
 
 ## One Honest Question
